@@ -1,0 +1,8 @@
+Python 3.10 (to make it easier)
+fastapi
+uvicorn
+pydantic
+pandas
+scikit-learn
+spacy
+nltk

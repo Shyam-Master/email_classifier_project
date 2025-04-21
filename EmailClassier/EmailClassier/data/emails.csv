@@ -1,0 +1,11 @@
+email_body,category
+"Hi, my name is John Doe and I need help resetting my password. My email is john.doe@example.com.",Account Management
+"Hello, I was charged twice on my credit card. Can you fix this billing error?",Billing Issues
+"My app crashes every time I open it. Please look into it.",Technical Support
+"I cannot access my account since I changed my phone number.",Account Management
+"I think I was wrongly billed this month. Kindly review the charges.",Billing Issues
+"My username and password don't work after the last update.",Account Management
+"The mobile app closes automatically after login. Help needed.",Technical Support
+"I see an unknown transaction on my credit card. Please investigate.",Billing Issues
+"The reset link sent to my email does not work. Please resend.",Account Management
+"The new update has broken the voice chat feature. Kindly check.",Technical Support
